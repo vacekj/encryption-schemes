@@ -27,4 +27,7 @@ fn main() {
 
 
 	// decryption
+	// m^ed --- m mod pq
+	// c^d --- m mod n
+	// m = c^d mod n
 }
